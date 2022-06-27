@@ -1,0 +1,48 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/bg/cnm.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.tranding {
+    height: auto;
+    background: url("../assets/image/bg/bgm.jpg");
+    background-size: cover;
+    
+}
+
+.superhero {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+    
+}
+
+.images {
+    height: 400px;
+}
+
+.movieImage {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
